@@ -1,0 +1,846 @@
+Active Internet connections (servers and established)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 127.0.0.1:631           0.0.0.0:*               LISTEN      440/cupsd           
+tcp        0      0 127.0.0.1:9050          0.0.0.0:*               LISTEN      451/tor             
+tcp        0      0 10.175.10.240:46998     35.164.47.95:443        ESTABLISHED 1466/firefox        
+tcp        0      0 10.175.10.240:55662     170.72.18.17:443        ESTABLISHED 1466/firefox        
+tcp        0      0 10.175.10.240:47910     170.72.18.16:443        ESTABLISHED 1466/firefox        
+tcp        0      0 10.175.10.240:35206     149.154.167.99:443      ESTABLISHED 1466/firefox        
+tcp        0      0 10.175.10.240:45738     149.154.167.99:443      ESTABLISHED 1466/firefox        
+tcp        0      0 10.175.10.240:47912     170.72.18.16:443        ESTABLISHED 1466/firefox        
+tcp6       0      0 :::1716                 :::*                    LISTEN      1162/kdeconnectd    
+tcp6       0      0 ::1:631                 :::*                    LISTEN      440/cupsd           
+udp        0      0 10.175.10.240:68        1.1.1.1:67              ESTABLISHED 402/NetworkManager  
+udp        0      0 0.0.0.0:12000           0.0.0.0:*                           9699/python         
+udp6       0      0 :::1716                 :::*                                1162/kdeconnectd    
+raw6       0      0 :::58                   :::*                    7           402/NetworkManager  
+Active UNIX domain sockets (servers and established)
+Proto RefCnt Flags       Type       State         I-Node   PID/Program name     Path
+unix  3      [ ]         SEQPACKET  CONNECTED     104160   7218/firefox         
+unix  3      [ ]         STREAM     CONNECTED     80606    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     24016    965/kwin_x11         
+unix  3      [ ]         STREAM     CONNECTED     23878    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         SEQPACKET  CONNECTED     85350    4875/firefox         
+unix  3      [ ]         STREAM     CONNECTED     31215    1550/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     24000    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     135580   9723/kioslave5       
+unix  3      [ ]         STREAM     CONNECTED     113726   475/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     52378    3177/okular          
+unix  3      [ ]         STREAM     CONNECTED     30884    959/ksmserver        @/tmp/.ICE-unix/959
+unix  3      [ ]         STREAM     CONNECTED     26703    1161/msm_kde_notifi  
+unix  3      [ ]         STREAM     CONNECTED     22226    1083/pipewire-media  
+unix  3      [ ]         STREAM     CONNECTED     19748    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     135581   1427/krunner         /run/user/1000/krunnerWKVIUW.4.kioworker.socket
+unix  3      [ ]         STREAM     CONNECTED     106141   1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     68916    4413/firefox         
+unix  3      [ ]         STREAM     CONNECTED     27000    388/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     103815   2441/firefox         
+unix  3      [ ]         STREAM     CONNECTED     70880    4345/firefox         
+unix  3      [ ]         STREAM     CONNECTED     23987    964/kded5            
+unix  2      [ ]         DGRAM                    15352    476/wpa_supplicant   /run/wpa_supplicant/wlo1
+unix  2      [ ]         DGRAM                    19024    476/wpa_supplicant   /run/wpa_supplicant/p2p-dev-wlo1
+unix  2      [ ]         STREAM     CONNECTED     72866    4417/firefox         
+unix  3      [ ]         STREAM     CONNECTED     23366    1082/pipewire        
+unix  3      [ ]         STREAM     CONNECTED     21965    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     23898    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     135796   8525/dolphin         /run/user/1000/dolphinkafTud.18.kioworker.socket
+unix  3      [ ]         STREAM     CONNECTED     136444   2971/dolphin         /run/user/1000/dolphintYOgoe.36.kioworker.socket
+unix  3      [ ]         STREAM     CONNECTED     27104    964/kded5            
+unix  2      [ ]         DGRAM                    22469    1173/kaccess         
+unix  3      [ ]         STREAM     CONNECTED     24946    885/dbus-daemon      /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     24075    475/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     24071    885/dbus-daemon      /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     71038    4417/firefox         
+unix  3      [ ]         STREAM     CONNECTED     23174    916/xdg-document-po  
+unix  4      [ ]         DGRAM      CONNECTED     12551    1/init               /run/systemd/notify
+unix  3      [ ]         STREAM     CONNECTED     26718    1188/obexd           
+unix  3      [ ]         STREAM     CONNECTED     24604    873/startplasma-x11  
+unix  2      [ ACC ]     STREAM     LISTENING     12554    1/init               /run/systemd/private
+unix  3      [ ]         STREAM     CONNECTED     80700    4769/firefox         
+unix  3      [ ]         SEQPACKET  CONNECTED     66651    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     28836    1544/at-spi-bus-lau  
+unix  3      [ ]         STREAM     CONNECTED     24987    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     22060    965/kwin_x11         
+unix  3      [ ]         STREAM     CONNECTED     22029    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     81226    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     31770    1798/systemsettings  
+unix  3      [ ]         STREAM     CONNECTED     27057    1453/baloorunner     
+unix  3      [ ]         STREAM     CONNECTED     26053    1372/gsettings-help  
+unix  2      [ ACC ]     STREAM     LISTENING     12556    1/init               /run/systemd/userdb/io.systemd.DynamicUser
+unix  3      [ ]         SEQPACKET  CONNECTED     28352    1641/firefox         
+unix  3      [ ]         STREAM     CONNECTED     28055    885/dbus-daemon      /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     19746    1/init               /run/systemd/journal/stdout
+unix  2      [ ACC ]     STREAM     LISTENING     12557    1/init               /run/systemd/io.system.ManagedOOM
+unix  3      [ ]         STREAM     CONNECTED     74309    4471/firefox         
+unix  3      [ ]         STREAM     CONNECTED     47358    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     22462    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     92437    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     85876    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     25293    1178/pamac-tray-pla  
+unix  3      [ ]         STREAM     CONNECTED     23115    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     23137    885/dbus-daemon      
+unix  2      [ ]         STREAM     CONNECTED     35144    2205/firefox         
+unix  3      [ ]         STREAM     CONNECTED     24010    964/kded5            
+unix  3      [ ]         STREAM     CONNECTED     24008    997/kglobalaccel5    
+unix  3      [ ]         STREAM     CONNECTED     83074    4872/firefox         
+unix  2      [ ]         STREAM     CONNECTED     75485    4569/firefox         
+unix  3      [ ]         STREAM     CONNECTED     25783    388/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     19911    440/cupsd            
+unix  3      [ ]         STREAM     CONNECTED     120275   1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     22131    1042/xdg-desktop-po  
+unix  3      [ ]         STREAM     CONNECTED     22051    475/Xorg             @/tmp/.X11-unix/X0
+unix  2      [ ACC ]     STREAM     LISTENING     12575    1/init               /run/lvm/lvmpolld.socket
+unix  2      [ ]         STREAM     CONNECTED     85334    4872/firefox         
+unix  3      [ ]         STREAM     CONNECTED     30883    1798/systemsettings  
+unix  3      [ ]         STREAM     CONNECTED     26714    475/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     22032    1/init               /run/systemd/journal/stdout
+unix  2      [ ACC ]     SEQPACKET  LISTENING     12577    1/init               /run/systemd/coredump
+unix  3      [ ]         STREAM     CONNECTED     113725   8525/dolphin         
+unix  3      [ ]         STREAM     CONNECTED     22473    1179/kscreen_backen  
+unix  3      [ ]         SEQPACKET  CONNECTED     90005    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     23367    885/dbus-daemon      /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     24911    475/Xorg             @/tmp/.X11-unix/X0
+unix  15     [ ]         DGRAM      CONNECTED     12581    1/init               /run/systemd/journal/dev-log
+unix  3      [ ]         STREAM     CONNECTED     73636    1466/firefox         
+unix  3      [ ]         SEQPACKET  CONNECTED     28168    1591/firefox         
+unix  3      [ ]         STREAM     CONNECTED     23902    885/dbus-daemon      /run/user/1000/bus
+unix  6      [ ]         DGRAM      CONNECTED     12583    1/init               /run/systemd/journal/socket
+unix  3      [ ]         STREAM     CONNECTED     23238    966/upowerd          
+unix  2      [ ACC ]     STREAM     LISTENING     12585    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     49727    475/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     24962    388/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     20443    858/sddm-helper      
+unix  2      [ ACC ]     SEQPACKET  LISTENING     12587    1/init               /run/udev/control
+unix  2      [ ]         STREAM     CONNECTED     84780    4875/firefox         
+unix  3      [ ]         STREAM     CONNECTED     28845    1038/polkit-kde-aut  
+unix  3      [ ]         SEQPACKET  CONNECTED     72863    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     26639    1161/msm_kde_notifi  
+unix  3      [ ]         STREAM     CONNECTED     22240    911/xdg-desktop-por  
+unix  3      [ ]         STREAM     CONNECTED     19962    388/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     21488    450/sddm             
+unix  3      [ ]         SEQPACKET  CONNECTED     71061    4471/firefox         
+unix  3      [ ]         STREAM     CONNECTED     19862    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         SEQPACKET  CONNECTED     118434   1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     27100    1550/dbus-daemon     
+unix  3      [ ]         STREAM     CONNECTED     26186    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     25812    1163/latte-dock      
+unix  3      [ ]         SEQPACKET  CONNECTED     78000    4728/firefox         
+unix  3      [ ]         STREAM     CONNECTED     27343    1466/firefox         
+unix  2      [ ACC ]     STREAM     LISTENING     15251    450/sddm             /tmp/sddm-authd256ef69-1c19-41e3-a0c4-d14733ebe0c5
+unix  3      [ ]         STREAM     CONNECTED     21377    388/dbus-daemon      
+unix  3      [ ]         STREAM     CONNECTED     86901    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     82819    1466/firefox         
+unix  3      [ ]         SEQPACKET  CONNECTED     26284    1559/firefox         
+unix  3      [ ]         STREAM     CONNECTED     25309    959/ksmserver        @/tmp/.ICE-unix/959
+unix  2      [ ACC ]     STREAM     LISTENING     21492    475/Xorg             /tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     119855   9135/firefox         
+unix  3      [ ]         STREAM     CONNECTED     119854   1466/firefox         
+unix  3      [ ]         SEQPACKET  CONNECTED     73634    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     28066    1037/gmenudbusmenup  
+unix  3      [ ]         STREAM     CONNECTED     22138    1038/polkit-kde-aut  
+unix  3      [ ]         STREAM     CONNECTED     83073    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     75081    4475/firefox         
+unix  3      [ ]         STREAM     CONNECTED     50940    885/dbus-daemon      /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     25800    1/init               /run/systemd/journal/stdout
+unix  2      [ ACC ]     STREAM     LISTENING     21499    450/sddm             /tmp/.dRTKbW/s
+unix  3      [ ]         STREAM     CONNECTED     71167    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     24077    911/xdg-desktop-por  
+unix  3      [ ]         STREAM     CONNECTED     24624    885/dbus-daemon      /run/user/1000/bus
+unix  2      [ ]         DGRAM      CONNECTED     15329    476/wpa_supplicant   
+unix  3      [ ]         SEQPACKET  CONNECTED     81193    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     22064    388/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     131433   1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     23268    997/kglobalaccel5    
+unix  2      [ ]         DGRAM                    23836    860/systemd          /run/user/1000/systemd/notify
+unix  3      [ ]         SEQPACKET  CONNECTED     83005    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     22108    1009/plasmashell     
+unix  2      [ ACC ]     STREAM     LISTENING     23839    860/systemd          /run/user/1000/systemd/private
+unix  2      [ ACC ]     STREAM     LISTENING     23847    860/systemd          /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     18706    386/bluetoothd       
+unix  3      [ ]         STREAM     CONNECTED     22451    1/init               /run/systemd/journal/stdout
+unix  2      [ ]         DGRAM                    23519    1040/org_kde_powerd  
+unix  3      [ ]         STREAM     CONNECTED     39812    2496/firefox         
+unix  3      [ ]         STREAM     CONNECTED     27079    885/dbus-daemon      /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     26733    1161/msm_kde_notifi  
+unix  3      [ ]         STREAM     CONNECTED     24649    918/udisksd          
+unix  3      [ ]         STREAM     CONNECTED     21485    450/sddm             
+unix  3      [ ]         STREAM     CONNECTED     80699    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     69223    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     23387    885/dbus-daemon      /run/user/1000/bus
+unix  2      [ ACC ]     STREAM     LISTENING     23849    860/systemd          /run/user/1000/gnupg/S.dirmngr
+unix  3      [ ]         STREAM     CONNECTED     15134    416/ModemManager     
+unix  3      [ ]         STREAM     CONNECTED     24046    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     23164    1/init               /run/systemd/journal/stdout
+unix  2      [ ACC ]     STREAM     LISTENING     23851    860/systemd          /run/user/1000/gnupg/S.gpg-agent.browser
+unix  2      [ ]         STREAM     CONNECTED     71050    4471/firefox         
+unix  3      [ ]         STREAM     CONNECTED     24936    1038/polkit-kde-aut  
+unix  2      [ ACC ]     STREAM     LISTENING     23853    860/systemd          /run/user/1000/gnupg/S.gpg-agent.extra
+unix  3      [ ]         STREAM     CONNECTED     82328    4766/firefox         
+unix  2      [ ACC ]     STREAM     LISTENING     23855    860/systemd          /run/user/1000/gnupg/S.gpg-agent.ssh
+unix  3      [ ]         STREAM     CONNECTED     66644    4009/firefox         
+unix  3      [ ]         STREAM     CONNECTED     39282    2355/firefox         
+unix  3      [ ]         STREAM     CONNECTED     23142    885/dbus-daemon      /run/user/1000/bus
+unix  2      [ ACC ]     STREAM     LISTENING     23857    860/systemd          /run/user/1000/gnupg/S.gpg-agent
+unix  3      [ ]         SEQPACKET  CONNECTED     130703   9347/firefox         
+unix  2      [ ]         STREAM     CONNECTED     81253    4766/firefox         
+unix  3      [ ]         STREAM     CONNECTED     31773    1798/systemsettings  
+unix  3      [ ]         STREAM     CONNECTED     25792    1173/kaccess         
+unix  2      [ ACC ]     STREAM     LISTENING     23276    959/ksmserver        /tmp/.ICE-unix/959
+unix  3      [ ]         STREAM     CONNECTED     26260    1550/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     28797    885/dbus-daemon      /run/user/1000/bus
+unix  2      [ ACC ]     STREAM     LISTENING     23859    860/systemd          /run/user/1000/p11-kit/pkcs11
+unix  3      [ ]         STREAM     CONNECTED     21382    388/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     83556    1466/firefox         
+unix  2      [ ]         STREAM     CONNECTED     78466    4769/firefox         
+unix  3      [ ]         STREAM     CONNECTED     75475    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     24072    475/Xorg             @/tmp/.X11-unix/X0
+unix  2      [ ACC ]     STREAM     LISTENING     23861    860/systemd          /run/user/1000/pipewire-0
+unix  3      [ ]         STREAM     CONNECTED     19930    450/sddm             
+unix  3      [ ]         STREAM     CONNECTED     117564   9004/firefox         
+unix  2      [ ]         STREAM     CONNECTED     107832   7258/firefox         
+unix  3      [ ]         SEQPACKET  CONNECTED     73649    4485/firefox         
+unix  3      [ ]         STREAM     CONNECTED     27106    965/kwin_x11         
+unix  3      [ ]         SEQPACKET  CONNECTED     77689    4658/firefox         
+unix  3      [ ]         STREAM     CONNECTED     27911    1356/pulseaudio      /run/user/1000/pulse/native
+unix  3      [ ]         STREAM     CONNECTED     24063    959/ksmserver        @/tmp/.ICE-unix/959
+unix  3      [ ]         STREAM     CONNECTED     23136    885/dbus-daemon      
+unix  2      [ ACC ]     STREAM     LISTENING     23863    860/systemd          /run/user/1000/pulse/native
+unix  3      [ ]         STREAM     CONNECTED     80607    4658/firefox         
+unix  3      [ ]         STREAM     CONNECTED     24055    965/kwin_x11         
+unix  2      [ ]         DGRAM      CONNECTED     15170    416/ModemManager     
+unix  3      [ ]         STREAM     CONNECTED     136454   8525/dolphin         
+unix  3      [ ]         STREAM     CONNECTED     71103    1466/firefox         
+unix  3      [ ]         SEQPACKET  CONNECTED     28062    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     23272    959/ksmserver        
+unix  3      [ ]         STREAM     CONNECTED     23988    885/dbus-daemon      /run/user/1000/bus
+unix  2      [ ACC ]     STREAM     LISTENING     21306    1/init               /run/cups/cups.sock
+unix  3      [ ]         STREAM     CONNECTED     27103    1162/kdeconnectd     
+unix  3      [ ]         STREAM     CONNECTED     22431    1/init               /run/systemd/journal/stdout
+unix  2      [ ACC ]     STREAM     LISTENING     21308    1/init               /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     70854    4326/firefox         
+unix  3      [ ]         STREAM     CONNECTED     23910    388/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     18721    402/NetworkManager   
+unix  3      [ ]         STREAM     CONNECTED     80616    4664/firefox         
+unix  3      [ ]         STREAM     CONNECTED     26719    388/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     15241    440/cupsd            
+unix  3      [ ]         STREAM     CONNECTED     29020    1356/pulseaudio      /run/user/1000/pulse/native
+unix  3      [ ]         STREAM     CONNECTED     26257    1550/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     22125    1037/gmenudbusmenup  
+unix  3      [ ]         STREAM     CONNECTED     21484    450/sddm             
+unix  3      [ ]         STREAM     CONNECTED     21481    450/sddm             
+unix  3      [ ]         STREAM     CONNECTED     34396    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     24948    1036/kactivitymanag  
+unix  3      [ ]         STREAM     CONNECTED     24930    964/kded5            
+unix  3      [ ]         STREAM     CONNECTED     23168    916/xdg-document-po  
+unix  2      [ ACC ]     STREAM     LISTENING     14093    269/systemd-journal  /run/systemd/journal/io.systemd.journal
+unix  3      [ ]         STREAM     CONNECTED     52379    475/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         SEQPACKET  CONNECTED     77999    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     66643    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     25313    1163/latte-dock      
+unix  3      [ ]         STREAM     CONNECTED     86902    4947/firefox         
+unix  3      [ ]         STREAM     CONNECTED     82352    1466/firefox         
+unix  2      [ ]         STREAM     CONNECTED     73273    4487/firefox         
+unix  3      [ ]         STREAM     CONNECTED     24651    388/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     23118    388/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         SEQPACKET  CONNECTED     118435   9135/firefox         
+unix  3      [ ]         STREAM     CONNECTED     78455    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     26252    1453/baloorunner     
+unix  3      [ ]         STREAM     CONNECTED     18602    386/bluetoothd       
+unix  3      [ ]         STREAM     CONNECTED     70879    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     26242    1544/at-spi-bus-lau  
+unix  3      [ ]         STREAM     CONNECTED     113464   885/dbus-daemon      /run/user/1000/bus
+unix  3      [ ]         SEQPACKET  CONNECTED     71060    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     21381    388/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     73250    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     55313    1798/systemsettings  
+unix  2      [ ]         STREAM     CONNECTED     27140    1591/firefox         
+unix  3      [ ]         STREAM     CONNECTED     25305    885/dbus-daemon      /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     22073    885/dbus-daemon      /run/user/1000/bus
+unix  3      [ ]         SEQPACKET  CONNECTED     90006    5084/firefox         
+unix  3      [ ]         STREAM     CONNECTED     34335    1356/pulseaudio      /run/user/1000/pulse/native
+unix  3      [ ]         STREAM     CONNECTED     21973    911/xdg-desktop-por  
+unix  3      [ ]         STREAM     CONNECTED     41088    2441/firefox         
+unix  3      [ ]         SEQPACKET  CONNECTED     85317    1466/firefox         
+unix  3      [ ]         SEQPACKET  CONNECTED     81194    4662/firefox         
+unix  2      [ ]         DGRAM                    24289    907/baloo_file       
+unix  3      [ ]         STREAM     CONNECTED     23994    885/dbus-daemon      /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     92035    5113/firefox         
+unix  3      [ ]         STREAM     CONNECTED     27829    1356/pulseaudio      
+unix  3      [ ]         STREAM     CONNECTED     26734    1162/kdeconnectd     
+unix  3      [ ]         STREAM     CONNECTED     22024    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     75476    4485/firefox         
+unix  3      [ ]         STREAM     CONNECTED     68810    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     26277    1550/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     24045    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     21483    450/sddm             
+unix  2      [ ]         STREAM     CONNECTED     129811   9347/firefox         
+unix  3      [ ]         STREAM     CONNECTED     26996    1427/krunner         
+unix  3      [ ]         STREAM     CONNECTED     26994    1427/krunner         
+unix  3      [ ]         STREAM     CONNECTED     23911    918/udisksd          
+unix  3      [ ]         STREAM     CONNECTED     22492    1178/pamac-tray-pla  
+unix  3      [ ]         STREAM     CONNECTED     76451    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     85930    4947/firefox         
+unix  3      [ ]         STREAM     CONNECTED     27344    1711/firefox         
+unix  3      [ ]         DGRAM      CONNECTED     23837    860/systemd          
+unix  2      [ ]         STREAM     CONNECTED     118399   9132/firefox         
+unix  3      [ ]         STREAM     CONNECTED     117852   9004/firefox         
+unix  3      [ ]         STREAM     CONNECTED     71553    4662/firefox         
+unix  2      [ ]         DGRAM      CONNECTED     14886    387/crond            
+unix  3      [ ]         STREAM     CONNECTED     120351   4279/firefox         
+unix  2      [ ]         STREAM     CONNECTED     42292    2496/firefox         
+unix  3      [ ]         STREAM     CONNECTED     24944    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     23153    873/startplasma-x11  
+unix  3      [ ]         STREAM     CONNECTED     23121    885/dbus-daemon      
+unix  3      [ ]         STREAM     CONNECTED     26288    1466/firefox         
+unix  2      [ ]         DGRAM                    24967    1038/polkit-kde-aut  
+unix  3      [ ]         STREAM     CONNECTED     22126    1037/gmenudbusmenup  
+unix  3      [ ]         STREAM     CONNECTED     83557    4875/firefox         
+unix  3      [ ]         STREAM     CONNECTED     28846    1043/xembedsniproxy  
+unix  3      [ ]         STREAM     CONNECTED     28844    1042/xdg-desktop-po  
+unix  3      [ ]         STREAM     CONNECTED     23409    1082/pipewire        /run/user/1000/pipewire-0
+unix  3      [ ]         STREAM     CONNECTED     81227    4728/firefox         
+unix  3      [ ]         STREAM     CONNECTED     26708    885/dbus-daemon      /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     15200    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     70853    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     66654    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     21903    860/systemd          
+unix  3      [ ]         STREAM     CONNECTED     82353    4875/firefox         
+unix  3      [ ]         STREAM     CONNECTED     73637    4471/firefox         
+unix  3      [ ]         STREAM     CONNECTED     47359    2892/firefox         
+unix  3      [ ]         STREAM     CONNECTED     25745    1163/latte-dock      
+unix  3      [ ]         STREAM     CONNECTED     22046    388/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         SEQPACKET  CONNECTED     85318    4841/firefox         
+unix  3      [ ]         STREAM     CONNECTED     50448    2971/dolphin         
+unix  3      [ ]         STREAM     CONNECTED     24688    475/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     21482    450/sddm             
+unix  3      [ ]         STREAM     CONNECTED     24940    1040/org_kde_powerd  
+unix  3      [ ]         STREAM     CONNECTED     84286    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     68795    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     54421    1798/systemsettings  
+unix  3      [ ]         SEQPACKET  CONNECTED     39274    2355/firefox         
+unix  3      [ ]         STREAM     CONNECTED     28848    885/dbus-daemon      /run/user/1000/bus
+unix  2      [ ]         STREAM     CONNECTED     105384   7218/firefox         
+unix  3      [ ]         STREAM     CONNECTED     26736    1162/kdeconnectd     
+unix  3      [ ]         STREAM     CONNECTED     26716    1188/obexd           
+unix  3      [ ]         STREAM     CONNECTED     15327    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     21450    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     26271    1550/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     26179    1466/firefox         
+unix  3      [ ]         SEQPACKET  CONNECTED     107839   1466/firefox         
+unix  3      [ ]         SEQPACKET  CONNECTED     78463    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     23321    1036/kactivitymanag  
+unix  3      [ ]         STREAM     CONNECTED     22434    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     25003    388/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     32996    475/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     134897   9725/kioslave5       
+unix  3      [ ]         STREAM     CONNECTED     24038    1036/kactivitymanag  
+unix  3      [ ]         STREAM     CONNECTED     24923    959/ksmserver        @/tmp/.ICE-unix/959
+unix  3      [ ]         STREAM     CONNECTED     22030    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     21915    885/dbus-daemon      /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     25459    1163/latte-dock      
+unix  3      [ ]         STREAM     CONNECTED     22139    959/ksmserver        @/tmp/.ICE-unix/959
+unix  3      [ ]         STREAM     CONNECTED     15330    476/wpa_supplicant   
+unix  3      [ ]         STREAM     CONNECTED     26275    1550/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     22224    1083/pipewire-media  
+unix  3      [ ]         STREAM     CONNECTED     23972    964/kded5            
+unix  3      [ ]         STREAM     CONNECTED     21414    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     47715    2971/dolphin         
+unix  3      [ ]         STREAM     CONNECTED     51168    885/dbus-daemon      /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     25308    1161/msm_kde_notifi  
+unix  3      [ ]         STREAM     CONNECTED     22119    964/kded5            
+unix  3      [ ]         STREAM     CONNECTED     24695    388/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     18716    1/init               
+unix  3      [ ]         STREAM     CONNECTED     15666    270/systemd-udevd    
+unix  3      [ ]         STREAM     CONNECTED     26713    475/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     26707    475/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     66655    4009/firefox         
+unix  3      [ ]         SEQPACKET  CONNECTED     37281    2205/firefox         
+unix  2      [ ]         STREAM     CONNECTED     28218    1641/firefox         
+unix  3      [ ]         STREAM     CONNECTED     23176    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     113728   1550/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     75080    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     68796    4279/firefox         
+unix  3      [ ]         STREAM     CONNECTED     39811    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     22464    475/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     23999    997/kglobalaccel5    
+unix  2      [ ]         DGRAM                    20446    858/sddm-helper      
+unix  3      [ ]         SEQPACKET  CONNECTED     77688    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     50942    3177/okular          
+unix  2      [ ]         DGRAM      CONNECTED     26715    1188/obexd           
+unix  3      [ ]         STREAM     CONNECTED     70156    4326/firefox         
+unix  2      [ ]         DGRAM                    22484    1179/kscreen_backen  
+unix  3      [ ]         STREAM     CONNECTED     25769    1178/pamac-tray-pla  
+unix  3      [ ]         DGRAM      CONNECTED     12552    1/init               
+unix  3      [ ]         STREAM     CONNECTED     29644    475/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     27117    1553/at-spi2-regist  
+unix  3      [ ]         STREAM     CONNECTED     26259    1550/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     27078    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     23991    475/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         DGRAM      CONNECTED     23211    1/init               
+unix  3      [ ]         STREAM     CONNECTED     106161   7258/firefox         
+unix  3      [ ]         SEQPACKET  CONNECTED     39273    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     23354    388/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     24067    959/ksmserver        @/tmp/.ICE-unix/959
+unix  2      [ ]         STREAM     CONNECTED     35501    2355/firefox         
+unix  2      [ ]         DGRAM                    28739    1427/krunner         
+unix  2      [ ]         DGRAM                    22118    964/kded5            
+unix  3      [ ]         STREAM     CONNECTED     23996    965/kwin_x11         
+unix  3      [ ]         STREAM     CONNECTED     24631    885/dbus-daemon      /run/user/1000/bus
+unix  2      [ ]         DGRAM                    15250    450/sddm             
+unix  3      [ ]         STREAM     CONNECTED     135584   8525/dolphin         /run/user/1000/dolphinsxUBOq.17.kioworker.socket
+unix  3      [ ]         STREAM     CONNECTED     50450    2971/dolphin         
+unix  3      [ ]         STREAM     CONNECTED     24954    1038/polkit-kde-aut  
+unix  3      [ ]         STREAM     CONNECTED     92438    5084/firefox         
+unix  3      [ ]         STREAM     CONNECTED     50446    885/dbus-daemon      /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     25304    1163/latte-dock      
+unix  3      [ ]         STREAM     CONNECTED     22072    1013/dconf-service   
+unix  3      [ ]         STREAM     CONNECTED     21958    911/xdg-desktop-por  
+unix  2      [ ]         DGRAM      CONNECTED     18719    388/dbus-daemon      
+unix  2      [ ]         STREAM     CONNECTED     82338    4841/firefox         
+unix  3      [ ]         SEQPACKET  CONNECTED     28351    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     23294    1009/plasmashell     
+unix  3      [ ]         STREAM     CONNECTED     111391   388/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     21440    388/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     25794    1162/kdeconnectd     
+unix  3      [ ]         STREAM     CONNECTED     22454    1172/agent           
+unix  3      [ ]         STREAM     CONNECTED     93550    5084/firefox         
+unix  3      [ ]         STREAM     CONNECTED     84287    4841/firefox         
+unix  3      [ ]         STREAM     CONNECTED     75486    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     26717    885/dbus-daemon      /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     24670    959/ksmserver        
+unix  3      [ ]         STREAM     CONNECTED     128916   1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     28181    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     26705    1172/agent           
+unix  3      [ ]         STREAM     CONNECTED     23790    450/sddm             /tmp/sddm-authd256ef69-1c19-41e3-a0c4-d14733ebe0c5
+unix  3      [ ]         SEQPACKET  CONNECTED     85349    1466/firefox         
+unix  3      [ ]         SEQPACKET  CONNECTED     85340    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     34397    2205/firefox         
+unix  3      [ ]         STREAM     CONNECTED     23406    1082/pipewire        /run/user/1000/pipewire-0
+unix  3      [ ]         STREAM     CONNECTED     24043    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     32076    1900/python          
+unix  2      [ ]         DGRAM                    26743    1178/pamac-tray-pla  
+unix  3      [ ]         STREAM     CONNECTED     25316    1178/pamac-tray-pla  
+unix  3      [ ]         STREAM     CONNECTED     21378    388/dbus-daemon      
+unix  3      [ ]         STREAM     CONNECTED     136443   9720/kioslave5       
+unix  2      [ ]         STREAM     CONNECTED     69885    4326/firefox         
+unix  3      [ ]         STREAM     CONNECTED     26280    1550/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     26709    475/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     25534    885/dbus-daemon      /run/user/1000/bus
+unix  3      [ ]         SEQPACKET  CONNECTED     48494    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     27102    1178/pamac-tray-pla  
+unix  3      [ ]         STREAM     CONNECTED     23909    907/baloo_file       
+unix  3      [ ]         STREAM     CONNECTED     23841    860/systemd          
+unix  3      [ ]         DGRAM      CONNECTED     12553    1/init               
+unix  3      [ ]         STREAM     CONNECTED     128917   9347/firefox         
+unix  2      [ ]         STREAM     CONNECTED     83598    4947/firefox         
+unix  3      [ ]         STREAM     CONNECTED     80615    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     71096    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     28839    1173/kaccess         
+unix  3      [ ]         STREAM     CONNECTED     24061    475/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     14863    387/crond            
+unix  3      [ ]         STREAM     CONNECTED     26266    1550/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     22186    1082/pipewire        
+unix  3      [ ]         STREAM     CONNECTED     21487    450/sddm             
+unix  3      [ ]         STREAM     CONNECTED     135834   388/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     24956    1040/org_kde_powerd  
+unix  3      [ ]         STREAM     CONNECTED     23180    927/fusermount3      
+unix  3      [ ]         STREAM     CONNECTED     49728    388/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     24017    965/kwin_x11         
+unix  3      [ ]         STREAM     CONNECTED     24959    388/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     22067    885/dbus-daemon      /run/user/1000/bus
+unix  2      [ ACC ]     STREAM     LISTENING     26011    1356/pulseaudio      /run/user/1000/pulse/dbus-socket
+unix  3      [ ]         SEQPACKET  CONNECTED     70153    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     26314    1641/firefox         
+unix  3      [ ]         STREAM     CONNECTED     26306    1641/firefox         
+unix  3      [ ]         STREAM     CONNECTED     26270    1550/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     27066    475/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     22485    885/dbus-daemon      /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     87389    4879/firefox         
+unix  3      [ ]         SEQPACKET  CONNECTED     85875    4879/firefox         
+unix  2      [ ]         STREAM     CONNECTED     71069    4485/firefox         
+unix  3      [ ]         STREAM     CONNECTED     23407    1082/pipewire        /run/user/1000/pipewire-0
+unix  3      [ ]         STREAM     CONNECTED     78456    4766/firefox         
+unix  3      [ ]         STREAM     CONNECTED     26187    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     77703    1466/firefox         
+unix  3      [ ]         SEQPACKET  CONNECTED     42123    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     27075    388/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     82348    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     30885    1550/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         SEQPACKET  CONNECTED     28167    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     25294    885/dbus-daemon      /run/user/1000/bus
+unix  2      [ ]         DGRAM      CONNECTED     18690    386/bluetoothd       
+unix  3      [ ]         SEQPACKET  CONNECTED     87431    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     43155    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     25296    1178/pamac-tray-pla  
+unix  2      [ ]         DGRAM      CONNECTED     23835    860/systemd          
+unix  2      [ ]         STREAM     CONNECTED     118409   9135/firefox         
+unix  3      [ ]         STREAM     CONNECTED     71076    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     32095    1900/python          
+unix  3      [ ]         STREAM     CONNECTED     24069    885/dbus-daemon      /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     23266    475/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     135562   8525/dolphin         
+unix  3      [ ]         STREAM     CONNECTED     95595    1466/firefox         
+unix  3      [ ]         SEQPACKET  CONNECTED     37280    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     18790    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     110382   1900/python          
+unix  3      [ ]         STREAM     CONNECTED     31216    885/dbus-daemon      /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     26274    1550/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     28843    1009/plasmashell     
+unix  3      [ ]         STREAM     CONNECTED     27077    475/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     103814   5084/firefox         
+unix  3      [ ]         STREAM     CONNECTED     71032    1466/firefox         
+unix  2      [ ]         STREAM     CONNECTED     65404    4279/firefox         
+unix  2      [ ACC ]     STREAM     LISTENING     27097    1550/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         DGRAM      CONNECTED     12687    270/systemd-udevd    
+unix  3      [ ]         STREAM     CONNECTED     26255    1550/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     26740    959/ksmserver        @/tmp/.ICE-unix/959
+unix  3      [ ]         STREAM     CONNECTED     27125    1559/firefox         
+unix  2      [ ]         DGRAM      CONNECTED     137447   9765/sudo            
+unix  3      [ ]         STREAM     CONNECTED     21949    911/xdg-desktop-por  
+unix  3      [ ]         SEQPACKET  CONNECTED     77667    4569/firefox         
+unix  3      [ ]         STREAM     CONNECTED     71037    1466/firefox         
+unix  2      [ ]         DGRAM                    22185    1082/pipewire        
+unix  3      [ ]         STREAM     CONNECTED     24961    1040/org_kde_powerd  
+unix  3      [ ]         STREAM     CONNECTED     117851   1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     49729    1550/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     23325    388/dbus-daemon      /run/dbus/system_bus_socket
+unix  2      [ ]         DGRAM      CONNECTED     20448    858/sddm-helper      
+unix  3      [ ]         SEQPACKET  CONNECTED     92952    1466/firefox         
+unix  3      [ ]         SEQPACKET  CONNECTED     85874    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     51456    1550/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         SEQPACKET  CONNECTED     29716    1711/firefox         
+unix  3      [ ]         STREAM     CONNECTED     25511    1356/pulseaudio      
+unix  3      [ ]         STREAM     CONNECTED     75487    4569/firefox         
+unix  3      [ ]         STREAM     CONNECTED     26305    1466/firefox         
+unix  2      [ ]         DGRAM      CONNECTED     23143    885/dbus-daemon      
+unix  3      [ ]         STREAM     CONNECTED     21324    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     43150    2355/firefox         
+unix  3      [ ]         STREAM     CONNECTED     28050    959/ksmserver        @/tmp/.ICE-unix/959
+unix  3      [ ]         STREAM     CONNECTED     28796    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     25798    1162/kdeconnectd     
+unix  3      [ ]         SEQPACKET  CONNECTED     87432    4947/firefox         
+unix  3      [ ]         STREAM     CONNECTED     36230    2205/firefox         
+unix  3      [ ]         STREAM     CONNECTED     82820    4879/firefox         
+unix  3      [ ]         STREAM     CONNECTED     70158    4345/firefox         
+unix  3      [ ]         STREAM     CONNECTED     23900    885/dbus-daemon      /run/user/1000/bus
+unix  3      [ ]         SEQPACKET  CONNECTED     85341    4872/firefox         
+unix  2      [ ]         DGRAM                    24258    1009/plasmashell     
+unix  3      [ ]         STREAM     CONNECTED     24686    885/dbus-daemon      /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     134817   2355/firefox         
+unix  3      [ ]         SEQPACKET  CONNECTED     104159   1466/firefox         
+unix  2      [ ]         STREAM     CONNECTED     41086    2441/firefox         
+unix  3      [ ]         STREAM     CONNECTED     30421    1900/python          
+unix  2      [ ]         DGRAM      CONNECTED     14094    269/systemd-journal  
+unix  3      [ ]         STREAM     CONNECTED     109601   7258/firefox         
+unix  3      [ ]         STREAM     CONNECTED     106160   1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     77934    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     120352   1559/firefox         
+unix  3      [ ]         STREAM     CONNECTED     117563   1466/firefox         
+unix  3      [ ]         SEQPACKET  CONNECTED     73648    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     26256    1550/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     28000    1427/krunner         
+unix  3      [ ]         STREAM     CONNECTED     21383    388/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     103813   1711/firefox         
+unix  3      [ ]         STREAM     CONNECTED     71033    4413/firefox         
+unix  2      [ ]         STREAM     CONNECTED     70858    4345/firefox         
+unix  3      [ ]         SEQPACKET  CONNECTED     41419    2496/firefox         
+unix  3      [ ]         STREAM     CONNECTED     27101    872/kwalletd5        
+unix  3      [ ]         SEQPACKET  CONNECTED     65430    4279/firefox         
+unix  3      [ ]         STREAM     CONNECTED     24945    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     22037    475/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     26298    1591/firefox         
+unix  3      [ ]         STREAM     CONNECTED     28056    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     22463    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     24650    388/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     21486    450/sddm             
+unix  3      [ ]         STREAM     CONNECTED     21380    388/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     28841    1161/msm_kde_notifi  
+unix  3      [ ]         STREAM     CONNECTED     24951    885/dbus-daemon      /run/user/1000/bus
+unix  3      [ ]         SEQPACKET  CONNECTED     73657    4487/firefox         
+unix  3      [ ]         STREAM     CONNECTED     47057    2892/firefox         
+unix  3      [ ]         STREAM     CONNECTED     38391    2355/firefox         
+unix  3      [ ]         STREAM     CONNECTED     24955    1038/polkit-kde-aut  
+unix  3      [ ]         STREAM     CONNECTED     24703    964/kded5            
+unix  3      [ ]         STREAM     CONNECTED     23181    916/xdg-document-po  
+unix  3      [ ]         STREAM     CONNECTED     82327    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     22109    885/dbus-daemon      /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     39281    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     32998    1900/python          
+unix  3      [ ]         SEQPACKET  CONNECTED     118407   9132/firefox         
+unix  3      [ ]         STREAM     CONNECTED     26185    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     77704    4664/firefox         
+unix  3      [ ]         STREAM     CONNECTED     26156    475/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     23993    959/ksmserver        
+unix  3      [ ]         STREAM     CONNECTED     111392   8525/dolphin         
+unix  3      [ ]         SEQPACKET  CONNECTED     72864    4413/firefox         
+unix  3      [ ]         STREAM     CONNECTED     136414   8525/dolphin         /run/user/1000/dolphinzyDmfT.16.kioworker.socket
+unix  3      [ ]         STREAM     CONNECTED     77935    4662/firefox         
+unix  2      [ ]         DGRAM                    45283    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     28847    475/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     28842    1163/latte-dock      
+unix  3      [ ]         STREAM     CONNECTED     25631    388/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     19954    450/sddm             
+unix  3      [ ]         STREAM     CONNECTED     134956   9765/sudo            
+unix  3      [ ]         STREAM     CONNECTED     32074    1900/python          
+unix  3      [ ]         STREAM     CONNECTED     24058    1043/xembedsniproxy  
+unix  3      [ ]         STREAM     CONNECTED     24060    475/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     23269    997/kglobalaccel5    
+unix  3      [ ]         SEQPACKET  CONNECTED     83006    4769/firefox         
+unix  3      [ ]         STREAM     CONNECTED     22044    872/kwalletd5        
+unix  2      [ ]         DGRAM      CONNECTED     18692    386/bluetoothd       
+unix  3      [ ]         STREAM     CONNECTED     26814    1356/pulseaudio      
+unix  3      [ ]         STREAM     CONNECTED     22450    1173/kaccess         
+unix  3      [ ]         STREAM     CONNECTED     106918   1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     19959    476/wpa_supplicant   
+unix  3      [ ]         STREAM     CONNECTED     69224    4417/firefox         
+unix  3      [ ]         STREAM     CONNECTED     39849    2355/firefox         
+unix  3      [ ]         STREAM     CONNECTED     26265    1550/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     22132    1040/org_kde_powerd  
+unix  3      [ ]         STREAM     CONNECTED     24677    885/dbus-daemon      /run/user/1000/bus
+unix  3      [ ]         SEQPACKET  CONNECTED     81201    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     38390    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     24932    1037/gmenudbusmenup  
+unix  3      [ ]         STREAM     CONNECTED     24986    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     24053    475/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     23903    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     78437    4728/firefox         
+unix  3      [ ]         STREAM     CONNECTED     22048    959/ksmserver        
+unix  3      [ ]         STREAM     CONNECTED     21441    416/ModemManager     
+unix  3      [ ]         STREAM     CONNECTED     82349    4841/firefox         
+unix  3      [ ]         STREAM     CONNECTED     82331    1466/firefox         
+unix  3      [ ]         SEQPACKET  CONNECTED     28071    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     26737    959/ksmserver        @/tmp/.ICE-unix/959
+unix  3      [ ]         STREAM     CONNECTED     25460    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         SEQPACKET  CONNECTED     130702   1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     26253    1427/krunner         
+unix  2      [ ]         DGRAM      CONNECTED     18678    390/systemd-logind   
+unix  2      [ ]         STREAM     CONNECTED     89998    5084/firefox         
+unix  2      [ ]         STREAM     CONNECTED     64358    4009/firefox         
+unix  3      [ ]         STREAM     CONNECTED     26643    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     19965    475/Xorg             
+unix  3      [ ]         STREAM     CONNECTED     25959    885/dbus-daemon      /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     14866    388/dbus-daemon      
+unix  3      [ ]         SEQPACKET  CONNECTED     77666    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     23985    885/dbus-daemon      /run/user/1000/bus
+unix  3      [ ]         SEQPACKET  CONNECTED     114287   1466/firefox         
+unix  3      [ ]         SEQPACKET  CONNECTED     73656    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     41411    2496/firefox         
+unix  3      [ ]         STREAM     CONNECTED     24062    1043/xembedsniproxy  
+unix  3      [ ]         STREAM     CONNECTED     24047    1042/xdg-desktop-po  
+unix  3      [ ]         SEQPACKET  CONNECTED     78464    4766/firefox         
+unix  3      [ ]         SEQPACKET  CONNECTED     65429    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     30276    388/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     22063    475/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     21953    907/baloo_file       
+unix  2      [ ]         DGRAM      CONNECTED     15676    1/init               
+unix  3      [ ]         SEQPACKET  CONNECTED     107840   7258/firefox         
+unix  3      [ ]         SEQPACKET  CONNECTED     28063    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     23274    959/ksmserver        
+unix  3      [ ]         SEQPACKET  CONNECTED     118406   1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     70910    1466/firefox         
+unix  3      [ ]         SEQPACKET  CONNECTED     48495    2892/firefox         
+unix  3      [ ]         STREAM     CONNECTED     27099    1550/dbus-daemon     
+unix  3      [ ]         STREAM     CONNECTED     22467    1179/kscreen_backen  
+unix  2      [ ]         DGRAM                    23259    959/ksmserver        
+unix  2      [ ]         STREAM     CONNECTED     116288   9004/firefox         
+unix  3      [ ]         STREAM     CONNECTED     28048    475/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     28735    885/dbus-daemon      /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     26704    885/dbus-daemon      /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     76452    4569/firefox         
+unix  3      [ ]         SEQPACKET  CONNECTED     72140    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     27107    1036/kactivitymanag  
+unix  3      [ ]         STREAM     CONNECTED     26741    885/dbus-daemon      /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     85929    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     72809    4375/firefox         
+unix  3      [ ]         DGRAM      CONNECTED     23838    860/systemd          
+unix  3      [ ]         STREAM     CONNECTED     23323    885/dbus-daemon      /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     41410    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     23177    921/xdg-permission-  
+unix  3      [ ]         STREAM     CONNECTED     23163    907/baloo_file       
+unix  2      [ ]         STREAM     CONNECTED     72203    4375/firefox         
+unix  3      [ ]         STREAM     CONNECTED     26313    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     26272    1550/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     24949    885/dbus-daemon      /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     15242    388/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     106919   7218/firefox         
+unix  3      [ ]         STREAM     CONNECTED     52380    3177/okular          
+unix  3      [ ]         STREAM     CONNECTED     22050    959/ksmserver        
+unix  3      [ ]         STREAM     CONNECTED     113727   8525/dolphin         
+unix  3      [ ]         SEQPACKET  CONNECTED     41418    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     18975    451/tor              
+unix  3      [ ]         STREAM     CONNECTED     37160    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     70157    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     22068    1013/dconf-service   
+unix  3      [ ]         STREAM     CONNECTED     22062    475/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     21838    860/systemd          
+unix  2      [ ]         DGRAM      CONNECTED     18720    389/polkitd          
+unix  3      [ ]         SEQPACKET  CONNECTED     71028    1466/firefox         
+unix  2      [ ]         DGRAM                    25001    1083/pipewire-media  
+unix  3      [ ]         STREAM     CONNECTED     24931    475/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     24009    997/kglobalaccel5    
+unix  3      [ ]         SEQPACKET  CONNECTED     81202    4664/firefox         
+unix  3      [ ]         STREAM     CONNECTED     30422    885/dbus-daemon      /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     120282   1466/firefox         
+unix  3      [ ]         SEQPACKET  CONNECTED     92953    5113/firefox         
+unix  3      [ ]         SEQPACKET  CONNECTED     66652    4009/firefox         
+unix  3      [ ]         STREAM     CONNECTED     26289    1591/firefox         
+unix  3      [ ]         STREAM     CONNECTED     28068    1553/at-spi2-regist  
+unix  3      [ ]         STREAM     CONNECTED     28010    1427/krunner         
+unix  3      [ ]         STREAM     CONNECTED     26702    1161/msm_kde_notifi  
+unix  3      [ ]         STREAM     CONNECTED     24272    1009/plasmashell     
+unix  3      [ ]         STREAM     CONNECTED     93549    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     68811    4279/firefox         
+unix  3      [ ]         STREAM     CONNECTED     26264    959/ksmserver        
+unix  3      [ ]         SEQPACKET  CONNECTED     42124    2441/firefox         
+unix  3      [ ]         STREAM     CONNECTED     31747    964/kded5            
+unix  3      [ ]         STREAM     CONNECTED     27065    1453/baloorunner     
+unix  3      [ ]         STREAM     CONNECTED     26993    1427/krunner         
+unix  3      [ ]         STREAM     CONNECTED     22427    1162/kdeconnectd     
+unix  2      [ ]         DGRAM      CONNECTED     12683    270/systemd-udevd    
+unix  3      [ ]         STREAM     CONNECTED     85877    4872/firefox         
+unix  3      [ ]         STREAM     CONNECTED     78436    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     72808    1466/firefox         
+unix  2      [ ]         DGRAM                    26138    1162/kdeconnectd     
+unix  2      [ ]         DGRAM      CONNECTED     23821    861/(sd-pam)         
+unix  3      [ ]         STREAM     CONNECTED     74308    1466/firefox         
+unix  3      [ ]         SEQPACKET  CONNECTED     72141    4345/firefox         
+unix  3      [ ]         STREAM     CONNECTED     23280    1009/plasmashell     
+unix  3      [ ]         STREAM     CONNECTED     24973    1038/polkit-kde-aut  
+unix  3      [ ]         STREAM     CONNECTED     24059    1043/xembedsniproxy  
+unix  2      [ ]         DGRAM                    25535    1356/pulseaudio      
+unix  3      [ ]         STREAM     CONNECTED     71168    4658/firefox         
+unix  3      [ ]         STREAM     CONNECTED     71077    4487/firefox         
+unix  3      [ ]         STREAM     CONNECTED     28799    1453/baloorunner     
+unix  3      [ ]         STREAM     CONNECTED     24960    388/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     24666    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         DGRAM      CONNECTED     23210    1/init               
+unix  2      [ ]         STREAM     CONNECTED     85352    4879/firefox         
+unix  3      [ ]         STREAM     CONNECTED     103816   5084/firefox         
+unix  3      [ ]         STREAM     CONNECTED     70911    4375/firefox         
+unix  3      [ ]         STREAM     CONNECTED     25814    475/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     23980    965/kwin_x11         
+unix  3      [ ]         STREAM     CONNECTED     18689    390/systemd-logind   
+unix  3      [ ]         STREAM     CONNECTED     22045    966/upowerd          
+unix  3      [ ]         STREAM     CONNECTED     32798    1798/systemsettings  
+unix  3      [ ]         STREAM     CONNECTED     27124    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     24709    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     24924    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     24922    1009/plasmashell     
+unix  3      [ ]         STREAM     CONNECTED     32096    1900/python          
+unix  2      [ ]         DGRAM                    24641    918/udisksd          
+unix  3      [ ]         STREAM     CONNECTED     28734    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     26735    959/ksmserver        @/tmp/.ICE-unix/959
+unix  3      [ ]         STREAM     CONNECTED     92034    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     87388    1466/firefox         
+unix  3      [ ]         SEQPACKET  CONNECTED     73635    4475/firefox         
+unix  3      [ ]         STREAM     CONNECTED     55312    1356/pulseaudio      /run/user/1000/pulse/native
+unix  3      [ ]         STREAM     CONNECTED     39848    1711/firefox         
+unix  3      [ ]         STREAM     CONNECTED     31217    1900/python          
+unix  3      [ ]         STREAM     CONNECTED     28069    1553/at-spi2-regist  
+unix  3      [ ]         STREAM     CONNECTED     26698    1179/kscreen_backen  
+unix  3      [ ]         STREAM     CONNECTED     21494    388/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     25813    475/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     23316    1043/xembedsniproxy  
+unix  3      [ ]         STREAM     CONNECTED     15171    388/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     71104    4487/firefox         
+unix  2      [ ]         DGRAM      CONNECTED     18988    451/tor              
+unix  3      [ ]         STREAM     CONNECTED     22468    1179/kscreen_backen  
+unix  3      [ ]         STREAM     CONNECTED     114514   9132/firefox         
+unix  3      [ ]         STREAM     CONNECTED     30832    964/kded5            /run/user/1000/kded5sCXlGm.1.kioworker.socket
+unix  3      [ ]         STREAM     CONNECTED     26263    1550/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     26254    1550/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     28007    959/ksmserver        @/tmp/.ICE-unix/959
+unix  3      [ ]         STREAM     CONNECTED     120283   9135/firefox         
+unix  3      [ ]         STREAM     CONNECTED     106142   7218/firefox         
+unix  3      [ ]         SEQPACKET  CONNECTED     70154    4326/firefox         
+unix  3      [ ]         STREAM     CONNECTED     26262    1550/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     22225    1083/pipewire-media  
+unix  3      [ ]         STREAM     CONNECTED     22179    1083/pipewire-media  
+unix  3      [ ]         STREAM     CONNECTED     19749    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     28840    1179/kscreen_backen  
+unix  3      [ ]         STREAM     CONNECTED     15024    389/polkitd          
+unix  3      [ ]         STREAM     CONNECTED     134816   1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     23302    475/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     50449    2971/dolphin         
+unix  2      [ ]         STREAM     CONNECTED     48487    2892/firefox         
+unix  3      [ ]         STREAM     CONNECTED     24958    1040/org_kde_powerd  
+unix  3      [ ]         STREAM     CONNECTED     23251    964/kded5            
+unix  3      [ ]         STREAM     CONNECTED     73251    4485/firefox         
+unix  3      [ ]         STREAM     CONNECTED     43151    2441/firefox         
+unix  3      [ ]         SEQPACKET  CONNECTED     28070    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     23990    475/Xorg             @/tmp/.X11-unix/X0
+unix  2      [ ]         STREAM     CONNECTED     24603    872/kwalletd5        /run/user/1000/kwallet5.socket
+unix  3      [ ]         STREAM     CONNECTED     82332    4769/firefox         
+unix  3      [ ]         SEQPACKET  CONNECTED     68876    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     26276    1550/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     26233    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     114513   1466/firefox         
+unix  2      [ ]         STREAM     CONNECTED     77691    4662/firefox         
+unix  3      [ ]         STREAM     CONNECTED     22456    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     14122    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     120276   9132/firefox         
+unix  3      [ ]         SEQPACKET  CONNECTED     29715    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     26297    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     28065    997/kglobalaccel5    
+unix  3      [ ]         STREAM     CONNECTED     26710    1188/obexd           
+unix  3      [ ]         STREAM     CONNECTED     23144    475/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     115299   8525/dolphin         
+unix  2      [ ]         STREAM     CONNECTED     68914    4413/firefox         
+unix  3      [ ]         STREAM     CONNECTED     24627    921/xdg-permission-  
+unix  3      [ ]         STREAM     CONNECTED     47056    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     41087    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     24068    1042/xdg-desktop-po  
+unix  3      [ ]         STREAM     CONNECTED     24957    1040/org_kde_powerd  
+unix  3      [ ]         STREAM     CONNECTED     131434   9347/firefox         
+unix  3      [ ]         STREAM     CONNECTED     24706    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     70155    1466/firefox         
+unix  3      [ ]         SEQPACKET  CONNECTED     26283    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     30175    885/dbus-daemon      /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     26258    1550/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     22471    885/dbus-daemon      /run/user/1000/bus
+unix  2      [ ]         DGRAM                    30185    1798/systemsettings  
+unix  3      [ ]         STREAM     CONNECTED     27105    1040/org_kde_powerd  
+unix  3      [ ]         STREAM     CONNECTED     22470    1173/kaccess         
+unix  3      [ ]         DGRAM      CONNECTED     12688    270/systemd-udevd    
+unix  3      [ ]         SEQPACKET  CONNECTED     114288   9004/firefox         
+unix  3      [ ]         STREAM     CONNECTED     71097    4475/firefox         
+unix  3      [ ]         STREAM     CONNECTED     14871    390/systemd-logind   
+unix  3      [ ]         STREAM     CONNECTED     95596    5113/firefox         
+unix  3      [ ]         STREAM     CONNECTED     26261    1550/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     27874    388/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     22124    1037/gmenudbusmenup  
+unix  2      [ ]         STREAM     CONNECTED     71063    4475/firefox         
+unix  3      [ ]         STREAM     CONNECTED     109600   1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     25005    885/dbus-daemon      /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     24074    475/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     24056    475/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         SEQPACKET  CONNECTED     68877    4375/firefox         
+unix  3      [ ]         STREAM     CONNECTED     42368    1356/pulseaudio      /run/user/1000/pulse/native
+unix  3      [ ]         STREAM     CONNECTED     30423    475/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     31774    1798/systemsettings  
+unix  3      [ ]         STREAM     CONNECTED     22043    872/kwalletd5        
+unix  2      [ ]         DGRAM                    18754    402/NetworkManager   
+unix  3      [ ]         STREAM     CONNECTED     23273    959/ksmserver        
+unix  2      [ ]         STREAM     CONNECTED     79376    4728/firefox         
+unix  2      [ ]         STREAM     CONNECTED     77702    4664/firefox         
+unix  2      [ ]         STREAM     CONNECTED     77681    4658/firefox         
+unix  2      [ ]         STREAM     CONNECTED     92945    5113/firefox         
+unix  3      [ ]         STREAM     CONNECTED     36229    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     28051    885/dbus-daemon      /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     18755    402/NetworkManager   
+unix  3      [ ]         STREAM     CONNECTED     68915    1466/firefox         
+unix  3      [ ]         STREAM     CONNECTED     26273    1550/dbus-daemon     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     22488    388/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     25773    885/dbus-daemon      /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     25002    1083/pipewire-media  
+unix  3      [ ]         STREAM     CONNECTED     109286   1356/pulseaudio      /run/user/1000/pulse/native
+unix  2      [ ]         STREAM     CONNECTED     28073    1559/firefox         
+unix  2      [ ]         DGRAM                    24912    965/kwin_x11         
+unix  3      [ ]         STREAM     CONNECTED     23928    951/rtkit-daemon     
+unix  3      [ ]         STREAM     CONNECTED     21476    388/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     71552    1466/firefox         
+unix  3      [ ]         SEQPACKET  CONNECTED     71029    4417/firefox         
+unix  3      [ ]         STREAM     CONNECTED     24082    1082/pipewire        
+unix  2      [ ACC ]     STREAM     LISTENING     21491    475/Xorg             @/tmp/.X11-unix/X0
+unix  2      [ ACC ]     STREAM     LISTENING     23275    959/ksmserver        @/tmp/.ICE-unix/959
+unix  2      [ ACC ]     STREAM     LISTENING     31222    1926/python          @powerline-ipc-1000
