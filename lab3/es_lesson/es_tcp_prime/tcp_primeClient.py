@@ -7,7 +7,7 @@ if __name__ == '__main__':
 
     tcpPersSocket = socket(AF_INET, SOCK_STREAM)
     tcpPersSocket.connect((serverName, serverPort))
-    tcpPersSocket.settimeout(2)
+    tcpPersSocket.settimeout(10)
 
     numClient = input("Inserire l'Holy numero: ")
     tcpPersSocket.send(numClient.encode('utf-8'))
